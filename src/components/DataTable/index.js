@@ -20,7 +20,7 @@ const DataTable = props => {
               }}
             >
               <span className="column-sort">
-                First Name
+                  First Name
                 <img src={SortIcon} alt="First Name" />
               </span>
             </th>
